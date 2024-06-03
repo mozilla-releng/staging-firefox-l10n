@@ -24,4 +24,4 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;
 
 desktop-action-new-window-name = Neues Fenster
 desktop-action-new-private-window-name = Neues privates Fenster
-desktop-action-open-profile-manager = Profilverwaltung öffnen
+desktop-action-open-profile-manager = Profilverwaltung bhearsumöffnen
